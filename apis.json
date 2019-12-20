@@ -1,0 +1,58 @@
+{
+    "name": "Webscripts",
+    "description": "<p>Webscripts respond to HTTP requests, making them easy to call from web and mobile apps. Webscripts have all the features you need, like password hashing and persistent storage, plus the full programmability of Lua. Many developer tools, such as GitHub and Stripe, offer webhooks as a way of delivering notifications. Webscripts are a fast and easy way to receive those webhooks. Our built-in request logging makes them equally easy to debug on-the-fly. Webscripts can also be activated on a schedule, providing a simple way to build monitoring or other automation.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/56-webscript-io.jpg",
+    "tags": [
+        "have api",
+        "scripts",
+        "serverless",
+        "webhooks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/webscripts\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Webscripts",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/56-webscript-io.jpg",
+            "humanURL": "https:\/\/www.webscript.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/webscripts-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.webscript.io\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.webscript.io\/rss.xml"
+        },
+        {
+            "type": "Email",
+            "url": "support@webscript.io"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/WebScript"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/webscriptio"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.webscript.io\/"
+        }
+    ]
+}
